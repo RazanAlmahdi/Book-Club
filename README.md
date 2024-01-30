@@ -13,7 +13,7 @@ This website is a database-driven web application built for Effat University's b
 ## Installation
 1. Clone the repository to your local machine:
 
-```git clone https://github.com/ReemAlsharabi/book-club.git```
+```git clone https://github.com/RazanAlmahdi/Book-Club.git```
 
 2. Import the _bookclub.sql_ file to your MySQL database.
 3. Update the _dbconfig.php_ file with your database credentials.
@@ -39,5 +39,6 @@ This website is a database-driven web application built for Effat University's b
 ## Authors
 - **Reem Alsharabi** - [ReemAlsharabi](https://github.com/ReemAlsharabi)
 - **Aicha Sidiya** - [AichaSidiya](https://github.com/AichaSidiya)
-- **Hanin Alzaher** - [hanin-az](https://github.com/hanin-az)
 - **Razan Almahdi** - [RazanAlmahdi](https://github.com/RazanAlmahdi)
+- **Hanin Alzaher** - [hanin-az](https://github.com/hanin-az)
+
