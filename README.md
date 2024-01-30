@@ -34,7 +34,7 @@ This website is a database-driven web application built for Effat University's b
 * Bootstrap
 
 ## Acknowledgments
-* This was a group project for the Web App Dev course [CS2111](https://github.com/ReemAlsharabi/CS2111)
+* This was a group project for the Web App Dev course [CS2111]
 
 ## Authors
 - [RazanAlmahdi](https://github.com/RazanAlmahdi)
