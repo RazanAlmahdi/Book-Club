@@ -37,8 +37,8 @@ This website is a database-driven web application built for Effat University's b
 * This was a group project for the Web App Dev course [CS2111](https://github.com/ReemAlsharabi/CS2111)
 
 ## Authors
-- **Reem Alsharabi** - [ReemAlsharabi](https://github.com/ReemAlsharabi)
-- **Aicha Sidiya** - [AichaSidiya](https://github.com/AichaSidiya)
-- **Razan Almahdi** - [RazanAlmahdi](https://github.com/RazanAlmahdi)
-- **Hanin Alzaher** - [hanin-az](https://github.com/hanin-az)
+- [RazanAlmahdi](https://github.com/RazanAlmahdi)
+- [ReemAlsharabi](https://github.com/ReemAlsharabi)
+- [AichaSidiya](https://github.com/AichaSidiya)
+- [hanin-az](https://github.com/hanin-az)
 
