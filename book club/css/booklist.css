@@ -1,0 +1,63 @@
+#block{margin-left: 20%;
+      margin-right: 20%;
+      padding: 5%;
+      border-color:#ed6dad;
+      border-style: dashed;
+      border-radius: 1px;}
+
+.title {color: purple;
+        font-family: Snell Roundhand, cursive;
+        font-size:2em;}
+
+.info {font-weight: bold;}
+
+p {font-family: 'Courier New', monospace;
+   text-align: justify;}
+
+h3 {margin: 0.5em 0.5em 0.5em 0.5em;}
+
+.editBook{
+      display: block;
+      float: left;
+      color: white;
+      background-color: #a8638b;
+      padding: 0.5em;
+      text-align: center;
+      border-radius: 12px;
+      margin: 0.5em 0.5em 0.5em -3.7em;
+      text-decoration: none;
+}
+.deleteBook{
+      display: block;
+      float: left;
+      color: white;
+      background-color: #25034f;
+      padding: 0.5em;
+      text-align: center;
+      border-radius: 12px;
+      margin: 0.5em 0.5em 0.5em 0.5em;
+      text-decoration: none;
+}
+.menu{
+      list-style-type: none;
+      margin-bottom: 1em;
+      padding: 0;
+      overflow: hidden;
+      background-color: #1d0151;
+}
+.menuItem{
+      float:left;
+}
+.menuItem .menuLink{
+      display: block;
+      color: #f499a5;
+      text-align: center;
+      padding: 0.875em 1em;
+      text-decoration: none;  
+}
+.menuItem .menuLink:hover{
+      background-color: #25034f;  
+}
+.menuItem .menuLink:active{
+      background-color: #f499a5;  
+}
